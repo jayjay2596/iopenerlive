@@ -464,7 +464,7 @@ table a, #comments a{background-color:inherit;}
 	.font-x3{font-size:1.6rem;}
 
 	#pageintro li article, #pageintro li p:first-of-type{max-width:none; width:100%;}
-	#pageintro li .heading{font-size:1.6rem;}
+	#pageintro li .heading{font-size:2rem;}
 
 	.hoc.split{max-width:none; width:100%;}
 	.split section{float:none; width:100%; padding:10% 5%;}
